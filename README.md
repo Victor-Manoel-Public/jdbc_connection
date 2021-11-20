@@ -1,7 +1,7 @@
 # jdbc_connection
 
 ## Functionality
-Connect to a postgresql database
+Connects to a postgresql database
     
 ## Usage
 *Warning*
